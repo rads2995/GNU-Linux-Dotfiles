@@ -10,7 +10,6 @@ gamemode 1.6.1-1
 gcc 11.1.0-1
 git 2.34.1-1
 grub 2:2.06-2
-ipp-usb 0.9.19-1
 lib32-gamemode 1.6.1-1
 lib32-libva-mesa-driver 21.2.5-1
 lib32-mesa 21.2.5-1
